@@ -1,0 +1,9 @@
+dataset
+test_cases_all
+*.out
+test.cpp
+error.txt
+output.txt
+__pycache__
+*.trash
+*.png
