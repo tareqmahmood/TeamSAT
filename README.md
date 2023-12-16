@@ -10,6 +10,15 @@ Authors: [Fariha](https://github.com/farihat13) and [Tareq](https://github.com/t
 
 The SAT problem involves determining the satisfiability of logical formulas, crucial in diverse applications such as artificial intelligence, cryptography, and optimization. The [CDCL algorithm](https://en.wikipedia.org/wiki/Conflict-driven_clause_learning), a cornerstone of modern SAT solvers, employs conflict analysis and dynamic clause learning to efficiently navigate the SAT problem. Recognizing the computational complexity of SAT, the study explores parallelization strategies using MPI, PThread, and OpenMP. The MPI approach, involving multi-node concurrent solvers who shares learned clauses, exhibits superior performance, particularly in handling larger problem instances. The impact of parallelism is evident across varying problem sizes, with optimal configurations depending on problem characteristics. The results showcase the scalability and efficiency of parallel SAT solvers, emphasizing their significance in addressing real-world challenges. 
 
+## Test Cases
+
+|  Test Case  | # Variables | # Clauses |
+|:-----------:|:-----------:|:---------:|
+|  flat30-13  |      90     |    300    |
+| 19x19queens |     361     |   10735   |
+|    bmc-2    |     2810    |   11683   |
+|    bmc-7    |     8710    |   39774   |
+
 ## A 30000 Feet View of The Results
 
 ![summary](images/summary.png)
