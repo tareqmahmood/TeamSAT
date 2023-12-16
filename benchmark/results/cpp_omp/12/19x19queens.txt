@@ -1,0 +1,30 @@
+361 variables. 10735 clauses
+---------------- Result -----------------
+SAT [Verified]
+New clauses 52
+Time 150.148
+SAT
+361 variables. 10735 clauses
+---------------- Result -----------------
+SAT [Verified]
+New clauses 98
+Time 220.023
+SAT
+361 variables. 10735 clauses
+---------------- Result -----------------
+SAT [Verified]
+New clauses 88
+Time 189.097
+SAT
+361 variables. 10735 clauses
+---------------- Result -----------------
+SAT [Verified]
+New clauses 13
+Time 47.4609
+SAT
+361 variables. 10735 clauses
+---------------- Result -----------------
+SAT [Verified]
+New clauses 63
+Time 129.838
+SAT

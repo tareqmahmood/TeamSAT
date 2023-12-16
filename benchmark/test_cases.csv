@@ -1,0 +1,6 @@
+test_name,variables,clauses
+flat30-13,90,300
+19x19queens,361,10735
+bmc-2,2810,11683
+bmc-7,8710,39774
+

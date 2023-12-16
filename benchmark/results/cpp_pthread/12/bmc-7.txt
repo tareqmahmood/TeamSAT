@@ -1,0 +1,95 @@
+n_solvers: 11
+8710 variables. 39774 clauses
+8710 variables. 39774 clauses
+8710 variables. 39774 clauses
+8710 variables. 39774 clauses
+8710 variables. 39774 clauses
+8710 variables. 39774 clauses
+8710 variables. 39774 clauses
+8710 variables. 39774 clauses
+8710 variables. 39774 clauses
+8710 variables. 39774 clauses
+8710 variables. 39774 clauses
+Solving...
+Solved
+---------------- Result -----------------
+SAT [Verified]
+New clauses 444
+Time 115827
+SAT
+n_solvers: 11
+8710 variables. 39774 clauses
+8710 variables. 39774 clauses
+8710 variables. 39774 clauses
+8710 variables. 39774 clauses
+8710 variables. 39774 clauses
+8710 variables. 39774 clauses
+8710 variables. 39774 clauses
+8710 variables. 39774 clauses
+8710 variables. 39774 clauses
+8710 variables. 39774 clauses
+8710 variables. 39774 clauses
+Solving...
+Solved
+---------------- Result -----------------
+SAT [Verified]
+New clauses 444
+Time 94206.9
+SAT
+n_solvers: 11
+8710 variables. 39774 clauses
+8710 variables. 39774 clauses
+8710 variables. 39774 clauses
+8710 variables. 39774 clauses
+8710 variables. 39774 clauses
+8710 variables. 39774 clauses
+8710 variables. 39774 clauses
+8710 variables. 39774 clauses
+8710 variables. 39774 clauses
+8710 variables. 39774 clauses
+8710 variables. 39774 clauses
+Solving...
+Solved
+---------------- Result -----------------
+SAT [Verified]
+New clauses 444
+Time 108456
+SAT
+n_solvers: 11
+8710 variables. 39774 clauses
+8710 variables. 39774 clauses
+8710 variables. 39774 clauses
+8710 variables. 39774 clauses
+8710 variables. 39774 clauses
+8710 variables. 39774 clauses
+8710 variables. 39774 clauses
+8710 variables. 39774 clauses
+8710 variables. 39774 clauses
+8710 variables. 39774 clauses
+8710 variables. 39774 clauses
+Solving...
+Solved
+---------------- Result -----------------
+SAT [Verified]
+New clauses 444
+Time 110903
+SAT
+n_solvers: 11
+8710 variables. 39774 clauses
+8710 variables. 39774 clauses
+8710 variables. 39774 clauses
+8710 variables. 39774 clauses
+8710 variables. 39774 clauses
+8710 variables. 39774 clauses
+8710 variables. 39774 clauses
+8710 variables. 39774 clauses
+8710 variables. 39774 clauses
+8710 variables. 39774 clauses
+8710 variables. 39774 clauses
+Solving...
+Solved
+---------------- Result -----------------
+SAT [Verified]
+New clauses 444
+Time 93583.1
+SAT

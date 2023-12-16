@@ -1,0 +1,30 @@
+8710 variables. 39774 clauses
+---------------- Result -----------------
+SAT [Verified]
+New clauses 940
+Time 77541.3
+SAT
+8710 variables. 39774 clauses
+---------------- Result -----------------
+SAT [Verified]
+New clauses 940
+Time 77589.1
+SAT
+8710 variables. 39774 clauses
+---------------- Result -----------------
+SAT [Verified]
+New clauses 940
+Time 77493.1
+SAT
+8710 variables. 39774 clauses
+---------------- Result -----------------
+SAT [Verified]
+New clauses 940
+Time 77508.5
+SAT
+8710 variables. 39774 clauses
+---------------- Result -----------------
+SAT [Verified]
+New clauses 940
+Time 77524.9
+SAT

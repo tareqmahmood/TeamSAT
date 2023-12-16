@@ -1,0 +1,30 @@
+2810 variables. 11683 clauses
+---------------- Result -----------------
+SAT [Verified]
+New clauses 159
+Time 1264.9
+SAT
+2810 variables. 11683 clauses
+---------------- Result -----------------
+SAT [Verified]
+New clauses 97
+Time 754.083
+SAT
+2810 variables. 11683 clauses
+---------------- Result -----------------
+SAT [Verified]
+New clauses 263
+Time 1746.71
+SAT
+2810 variables. 11683 clauses
+---------------- Result -----------------
+SAT [Verified]
+New clauses 199
+Time 1206.53
+SAT
+2810 variables. 11683 clauses
+---------------- Result -----------------
+SAT [Verified]
+New clauses 276
+Time 1702.53
+SAT

@@ -1,0 +1,30 @@
+90 variables. 300 clauses
+---------------- Result -----------------
+SAT [Verified]
+New clauses 12
+Time 2.98063
+SAT
+90 variables. 300 clauses
+---------------- Result -----------------
+SAT [Verified]
+New clauses 6
+Time 1.71658
+SAT
+90 variables. 300 clauses
+---------------- Result -----------------
+SAT [Verified]
+New clauses 4
+Time 1.55455
+SAT
+90 variables. 300 clauses
+---------------- Result -----------------
+SAT [Verified]
+New clauses 9
+Time 2.45766
+SAT
+90 variables. 300 clauses
+---------------- Result -----------------
+SAT [Verified]
+New clauses 4
+Time 1.45162
+SAT

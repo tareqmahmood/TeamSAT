@@ -1,0 +1,75 @@
+n_solvers: 7
+2810 variables. 11683 clauses
+2810 variables. 11683 clauses
+2810 variables. 11683 clauses
+2810 variables. 11683 clauses
+2810 variables. 11683 clauses
+2810 variables. 11683 clauses
+2810 variables. 11683 clauses
+Solving...
+Solved
+---------------- Result -----------------
+SAT [Verified]
+New clauses 61
+Time 1266.87
+SAT
+n_solvers: 7
+2810 variables. 11683 clauses
+2810 variables. 11683 clauses
+2810 variables. 11683 clauses
+2810 variables. 11683 clauses
+2810 variables. 11683 clauses
+2810 variables. 11683 clauses
+2810 variables. 11683 clauses
+Solving...
+Solved
+---------------- Result -----------------
+SAT [Verified]
+New clauses 61
+Time 1327.93
+SAT
+n_solvers: 7
+2810 variables. 11683 clauses
+2810 variables. 11683 clauses
+2810 variables. 11683 clauses
+2810 variables. 11683 clauses
+2810 variables. 11683 clauses
+2810 variables. 11683 clauses
+2810 variables. 11683 clauses
+Solving...
+Solved
+---------------- Result -----------------
+SAT [Verified]
+New clauses 61
+Time 1298.66
+SAT
+n_solvers: 7
+2810 variables. 11683 clauses
+2810 variables. 11683 clauses
+2810 variables. 11683 clauses
+2810 variables. 11683 clauses
+2810 variables. 11683 clauses
+2810 variables. 11683 clauses
+2810 variables. 11683 clauses
+Solving...
+Solved
+---------------- Result -----------------
+SAT [Verified]
+New clauses 61
+Time 1214.59
+SAT
+n_solvers: 7
+2810 variables. 11683 clauses
+2810 variables. 11683 clauses
+2810 variables. 11683 clauses
+2810 variables. 11683 clauses
+2810 variables. 11683 clauses
+2810 variables. 11683 clauses
+2810 variables. 11683 clauses
+Solving...
+Solved
+---------------- Result -----------------
+SAT [Verified]
+New clauses 61
+Time 1215.27
+SAT

@@ -1,0 +1,55 @@
+n_solvers: 3
+90 variables. 300 clauses
+90 variables. 300 clauses
+90 variables. 300 clauses
+Solving...
+Solved
+---------------- Result -----------------
+SAT [Verified]
+New clauses 1
+Time 1.87411
+SAT
+n_solvers: 3
+90 variables. 300 clauses
+90 variables. 300 clauses
+90 variables. 300 clauses
+Solving...
+Solved
+---------------- Result -----------------
+SAT [Verified]
+New clauses 1
+Time 1.82188
+SAT
+n_solvers: 3
+90 variables. 300 clauses
+90 variables. 300 clauses
+90 variables. 300 clauses
+Solving...
+Solved
+---------------- Result -----------------
+SAT [Verified]
+New clauses 1
+Time 1.48845
+SAT
+n_solvers: 3
+90 variables. 300 clauses
+90 variables. 300 clauses
+90 variables. 300 clauses
+Solving...
+Solved
+---------------- Result -----------------
+SAT [Verified]
+New clauses 1
+Time 1.57584
+SAT
+n_solvers: 3
+90 variables. 300 clauses
+90 variables. 300 clauses
+90 variables. 300 clauses
+Solving...
+Solved
+---------------- Result -----------------
+SAT [Verified]
+New clauses 1
+Time 1.58463
+SAT

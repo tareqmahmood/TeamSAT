@@ -1,0 +1,115 @@
+n_solvers: 15
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+Solving...
+Solved
+---------------- Result -----------------
+SAT [Verified]
+New clauses 8
+Time 186.871
+SAT
+n_solvers: 15
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+Solving...
+Solved
+---------------- Result -----------------
+SAT [Verified]
+New clauses 22
+Time 215.676
+SAT
+n_solvers: 15
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+Solving...
+Solved
+---------------- Result -----------------
+SAT [Verified]
+New clauses 8
+Time 187.051
+SAT
+n_solvers: 15
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+Solving...
+Solved
+---------------- Result -----------------
+SAT [Verified]
+New clauses 8
+Time 198.002
+SAT
+n_solvers: 15
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+Solving...
+Solved
+---------------- Result -----------------
+SAT [Verified]
+New clauses 3
+Time 167.754
+SAT

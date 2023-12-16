@@ -1,0 +1,45 @@
+n_solvers: 1
+2810 variables. 11683 clauses
+Solving...
+Solved
+---------------- Result -----------------
+SAT [Verified]
+New clauses 214
+Time 3687.65
+SAT
+n_solvers: 1
+2810 variables. 11683 clauses
+Solving...
+Solved
+---------------- Result -----------------
+SAT [Verified]
+New clauses 214
+Time 3765.57
+SAT
+n_solvers: 1
+2810 variables. 11683 clauses
+Solving...
+Solved
+---------------- Result -----------------
+SAT [Verified]
+New clauses 214
+Time 3785.88
+SAT
+n_solvers: 1
+2810 variables. 11683 clauses
+Solving...
+Solved
+---------------- Result -----------------
+SAT [Verified]
+New clauses 214
+Time 3796.59
+SAT
+n_solvers: 1
+2810 variables. 11683 clauses
+Solving...
+Solved
+---------------- Result -----------------
+SAT [Verified]
+New clauses 214
+Time 3783.59
+SAT

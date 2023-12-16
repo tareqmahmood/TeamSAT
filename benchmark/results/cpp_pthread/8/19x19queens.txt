@@ -1,0 +1,75 @@
+n_solvers: 7
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+Solving...
+Solved
+---------------- Result -----------------
+SAT [Verified]
+New clauses 10
+Time 72.7157
+SAT
+n_solvers: 7
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+Solving...
+Solved
+---------------- Result -----------------
+SAT [Verified]
+New clauses 10
+Time 73.9376
+SAT
+n_solvers: 7
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+Solving...
+Solved
+---------------- Result -----------------
+SAT [Verified]
+New clauses 10
+Time 74.3315
+SAT
+n_solvers: 7
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+Solving...
+Solved
+---------------- Result -----------------
+SAT [Verified]
+New clauses 10
+Time 76.4883
+SAT
+n_solvers: 7
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+361 variables. 10735 clauses
+Solving...
+Solved
+---------------- Result -----------------
+SAT [Verified]
+New clauses 10
+Time 71.8756
+SAT
