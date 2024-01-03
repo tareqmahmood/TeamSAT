@@ -63,14 +63,14 @@ TeamSAT is the nickname for `cpp_mpi`.
 
 ### Baseline
 
-**CodeFile:** `FinalProject/cpp/sat_solver.cpp`
+**CodeFile:** `cpp/sat_solver.cpp`
 
-**Script to run:** `FinalProject/cpp/run.sh`, `FinalProject/cpp/slurm-build.sh`, `FinalProject/cpp/slurm-run.sh`
+**Script to run:** `cpp/run.sh`, `cpp/slurm-build.sh`, `cpp/slurm-run.sh`
 
 **Example commands to run in your machine:**
 
 ```bash
-$ cd FinalProject/cpp/
+$ cd cpp/
 $ ./run.sh ../test_cases/flat30-13.cnf
 $ ./run.sh ../test_cases/19x19queens.cnf
 $ ./run.sh ../test_cases/bmc-2.cnf
@@ -79,7 +79,7 @@ $ ./run.sh ../test_cases/bmc-7.cnf
 **Example commands to run in slurm:**
 
 ```bash
-$ cd FinalProject/cpp/
+$ cd cpp/
 $ sbatch slurm-build.sh
 $ sbatch slurm-run.sh
 $ cat output.txt
@@ -88,14 +88,14 @@ To change the test_case, edit the `slurm-run.sh`.
 
 ### CPP_MPI
 
-**CodeFile:** `FinalProject/cpp_mpi/sat_solver.cpp`
+**CodeFile:** `cpp_mpi/sat_solver.cpp`
 
-**Script to run:** `FinalProject/cpp_mpi/run.sh`, `FinalProject/cpp_mpi/slurm-build.sh`, `FinalProject/cpp_mpi/slurm-run.sh`
+**Script to run:** `cpp_mpi/run.sh`, `cpp_mpi/slurm-build.sh`, `cpp_mpi/slurm-run.sh`
 
 **Example commands to run in your machine:**
 
 ```bash
-$ cd FinalProject/cpp_mpi/
+$ cd cpp_mpi/
 $ ./run.sh ../test_cases/flat30-13.cnf
 $ ./run.sh ../test_cases/19x19queens.cnf
 $ ./run.sh ../test_cases/bmc-2.cnf
@@ -104,7 +104,7 @@ $ ./run.sh ../test_cases/bmc-7.cnf
 **Example commands to run in slurm:**
 
 ```bash
-$ cd FinalProject/cpp_mpi/
+$ cd cpp_mpi/
 $ sbatch slurm-build.sh
 $ sbatch slurm-run.sh
 $ cat output.txt
@@ -114,14 +114,14 @@ To change the test_case, edit the `slurm-run.sh`.
 
 ### CPP_OMP
 
-**CodeFile:** `FinalProject/cpp_omp/sat_solver.cpp`
+**CodeFile:** `cpp_omp/sat_solver.cpp`
 
-**Script to run:** `FinalProject/cpp_omp/run.sh`, `FinalProject/cpp_omp/slurm-build.sh`, `FinalProject/cpp_omp/slurm-run.sh`
+**Script to run:** `cpp_omp/run.sh`, `cpp_omp/slurm-build.sh`, `cpp_omp/slurm-run.sh`
 
 **Example commands to run in your machine:**
 
 ```bash
-$ cd FinalProject/cpp_omp/
+$ cd cpp_omp/
 $ ./run.sh ../test_cases/flat30-13.cnf 4
 $ ./run.sh ../test_cases/19x19queens.cnf 4
 $ ./run.sh ../test_cases/bmc-2.cnf 4
@@ -132,7 +132,7 @@ $ ./run.sh ../test_cases/bmc-7.cnf 4
 **Example commands to run in slurm:**
 
 ```bash
-$ cd FinalProject/cpp_omp/
+$ cd cpp_omp/
 $ sbatch slurm-build.sh
 $ sbatch slurm-run.sh
 $ cat output.txt
@@ -141,14 +141,14 @@ To change the test_case, edit the `slurm-run.sh`.
 
 ### CPP_PThread
 
-**CodeFile:** `FinalProject/cpp_pthread/sat_solver.cpp`
+**CodeFile:** `cpp_pthread/sat_solver.cpp`
 
-**Script to run:** `FinalProject/cpp_pthread/run.sh`, `FinalProject/cpp_pthread/slurm-build.sh`, `FinalProject/cpp_pthread/slurm-run.sh`
+**Script to run:** `cpp_pthread/run.sh`, `cpp_pthread/slurm-build.sh`, `cpp_pthread/slurm-run.sh`
 
 **Example commands to run in your machine:**
 
 ```bash
-$ cd FinalProject/cpp_pthread/
+$ cd cpp_pthread/
 $ ./run.sh ../test_cases/flat30-13.cnf 4
 $ ./run.sh ../test_cases/19x19queens.cnf 4
 $ ./run.sh ../test_cases/bmc-2.cnf 4
@@ -160,7 +160,7 @@ $ ./run.sh ../test_cases/bmc-7.cnf 4
 **Example commands to run in slurm:**
 
 ```bash
-$ cd FinalProject/cpp_pthread/
+$ cd cpp_pthread/
 $ sbatch slurm-build.sh
 $ sbatch slurm-run.sh
 $ cat output.txt
