@@ -29,6 +29,28 @@ jobs:
       - run: sudo apt-get install openmpi-bin openmpi-doc libopenmpi-dev
       - run: "cd cpp_mpi && mpicxx sat_solver.cpp -Wall -O3 -o sat_solver.out"
 
+  build-cpp-omp:
+    # Specify the execution environment. You can specify an image from Docker Hub or use one of our convenience images from CircleCI's Developer Hub.
+    # See: https://circleci.com/docs/configuration-reference/#executor-job
+    docker:
+      - image: cimg/base:stable
+    # Add steps to the job
+    # See: https://circleci.com/docs/configuration-reference/#steps
+    steps:
+      - checkout
+      - run: "cd cpp_omp && g++ sat_solver.cpp -Wall -O3 -std=c++17 -o sat_solver.out -fopenmp -fno-tree-vectorize -march=native -fopt-info-vec"
+  
+  build-cpp-pthread:
+    # Specify the execution environment. You can specify an image from Docker Hub or use one of our convenience images from CircleCI's Developer Hub.
+    # See: https://circleci.com/docs/configuration-reference/#executor-job
+    docker:
+      - image: cimg/base:stable
+    # Add steps to the job
+    # See: https://circleci.com/docs/configuration-reference/#steps
+    steps:
+      - checkout
+      - run: "cd cpp_pthread && g++ sat_solver.cpp -Wall -O3 -std=c++17 -o sat_solver.out -pthread"
+
 # Orchestrate jobs using workflows
 # See: https://circleci.com/docs/configuration-reference/#workflows
 workflows:
@@ -36,3 +58,5 @@ workflows:
     jobs:
       - build-cpp
       - build-cpp-mpi
+      - build-cpp-omp
+      - build-cpp-pthread
