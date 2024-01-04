@@ -1,6 +1,6 @@
 # TeamSAT - A Collaborative Parallel SAT Solver
 
-[![CircleCI](https://dl.circleci.com/status-badge/img/circleci/HfTjEcrsmpvej1LDoGF5Bf/GgUZ44dUkHFwdneXqiRATu/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/circleci/HfTjEcrsmpvej1LDoGF5Bf/GgUZ44dUkHFwdneXqiRATu/tree/main)
+[![CircleCI](https://dl.circleci.com/status-badge/img/circleci/HfTjEcrsmpvej1LDoGF5Bf/GgUZ44dUkHFwdneXqiRATu/tree/main.svg?style=shield&circle-token=883b4a573302f8233853385a14e874fb7cdcf8c5)](https://dl.circleci.com/status-badge/redirect/circleci/HfTjEcrsmpvej1LDoGF5Bf/GgUZ44dUkHFwdneXqiRATu/tree/main)
 
 [ME/CS/ECE 759: High Performance Computing for Engineering Applications](https://sbel.wisc.edu/me-964-high-performance-computing-for-engineering-applications/)
 
