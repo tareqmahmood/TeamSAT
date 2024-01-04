@@ -5,7 +5,7 @@ version: 2.1
 # Define a job to be invoked later in a workflow.
 # See: https://circleci.com/docs/configuration-reference/#jobs
 jobs:
-  build-all:
+  build-cpp:
     # Specify the execution environment. You can specify an image from Docker Hub or use one of our convenience images from CircleCI's Developer Hub.
     # See: https://circleci.com/docs/configuration-reference/#executor-job
     docker:
@@ -14,13 +14,25 @@ jobs:
     # See: https://circleci.com/docs/configuration-reference/#steps
     steps:
       - checkout
-      - run:
-          name: "build cpp"
-          command: "cd cpp && g++ sat_solver.cpp -Wall -O3 -std=c++17 -o sat_solver.out"
+      - run: "cd cpp && g++ sat_solver.cpp -Wall -O3 -std=c++17 -o sat_solver.out"
+  
+  build-cpp-mpi:
+    # Specify the execution environment. You can specify an image from Docker Hub or use one of our convenience images from CircleCI's Developer Hub.
+    # See: https://circleci.com/docs/configuration-reference/#executor-job
+    docker:
+      - image: cimg/base:stable
+    # Add steps to the job
+    # See: https://circleci.com/docs/configuration-reference/#steps
+    steps:
+      - checkout
+      - run: sudo apt-get update -y
+      - run: sudo apt-get install openmpi-bin openmpi-doc libopenmpi-dev
+      - run: "cd cpp_mpi && mpicxx sat_solver.cpp -Wall -O3 -o sat_solver.out"
 
 # Orchestrate jobs using workflows
 # See: https://circleci.com/docs/configuration-reference/#workflows
 workflows:
-  say-hello-workflow:
+  build-workflow:
     jobs:
-      - build-all
+      - build-cpp
+      - build-cpp-mpi
